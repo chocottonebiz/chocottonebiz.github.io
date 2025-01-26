@@ -3,8 +3,8 @@
     "short_name": "myapp",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#EFE5DA",  // Cor de fundo em marrom claro
-    "theme_color": "#BCAAA4",  // Tom de marrom claro para o tema
+    "background_color": "#EFE5DA",
+    "theme_color": "#BCAAA4",
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
